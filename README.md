@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Milestone 1 Project - Hello World in Next.js
 
-## Getting Started
+This project marks the beginning of our journey into Next.js development, serving as the first milestone. The primary goal was to get familiar with setting up a Next.js environment, understanding the file structure, and rendering a basic "Hello World" page.
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This milestone project is a part of the **Next.js Code Circle for Senior Students**, guided by **Sir Ameen Alam**. The focus of this milestone is to solidify our understanding of:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Setting Up the Environment**: Installing Node.js, creating a new Next.js project, and configuring the development environment.
+- **Understanding File Structure**: Learning about the default Next.js folder structure, including `pages`, `public`, and `styles`.
+- **Rendering a Basic Page**: Creating a simple "Hello World" page to understand the basics of routing and rendering in Next.js.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Learnings
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Throughout this milestone, we focused on:
 
-## Learn More
+1. **Setting Up the Environment**: Ensuring that the development environment is correctly configured for Next.js projects.
+2. **File Structure**: Gaining an understanding of the core directories and files in a Next.js project and how they contribute to the overall architecture.
+3. **Basic Page Rendering**: Writing and rendering a basic component in Next.js to display "Hello World" on the browser.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This milestone lays the foundation for future projects, providing a solid grasp of the initial setup and basic functionality of a Next.js application.
